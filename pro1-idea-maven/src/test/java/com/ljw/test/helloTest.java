@@ -10,6 +10,6 @@ public class helloTest {
         helloWorld.showMessage();
         System.out.println("second commit");
         System.out.println("master fix");
-        System.out.println("hot fix1");
+        System.out.println("hot fix2");
     }
 }
